@@ -1,0 +1,4 @@
+Model,Accuracy,Recall,Precision,F1 Score
+LSTM,0.5765,0.5765,0.5845,0.5705
+BiLSTM,0.593,0.593,0.5955,0.59
+GRU,0.6026,0.6026,0.6045,0.5987
